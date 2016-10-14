@@ -1,0 +1,138 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>世界聊天室</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <script type="text/javascript" src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/app.js"></script>
+    <!--[if (lt IE 8.0)]><link href="http://s8.qhimg.com/static/9839c9e7b0e07492/style.css" rel="stylesheet"><![endif]--><!--[if (!IE)|(gte IE 8.0)]><!--><link href="./css/css.css" rel="stylesheet"><!--<![endif]-->
+</head>
+<body>
+<div class="header" state="binded">
+    <div class="wrapper">
+
+        <div class="clearfix"></div>
+        <div class="unbind">
+            <div class="box">
+                <div class="haibao">
+                    <img src="http://p4.qhimg.com/t0177b1ebd509f5298f.gif" width="553" height="426">
+                </div>
+            </div>
+        </div>
+        <div class="binded">
+            <div class="box">
+                <h3>
+                    <div class="userinfo really">
+                        <!--<img src="http://p1.qhimg.com/t019d1352a116e9ab1c.png"><span title="9HCM6ZBSVOUXWDO" id="showname">9HCM6ZBSVOUXWDO</span>-->
+                    </div>
+                    <div class="toolbar">
+                        <!-- <a class="unbind" title="解除绑定"></a> -->
+                        <a class="clear" title="清空发送记录"></a>
+                    </div>
+                </h3>
+                <ul class="device-list">
+                    <div class="build-device-list"> <li data-device="" class="current"><i></i><em>所有人</em><u></u></li> </div>
+                    <!--<div class="build-device-list"> <li data-device="" class="current"><i></i><em>所有人</em><u></u></li> </div>-->
+                    <!--<div class="build-device-list"> <li data-device="" class="current"><i></i><em>所有人</em><u></u></li> </div>-->
+                    <!--<div class="build-device-list"> <li data-device="" class="current"><i></i><em>所有人</em><u></u></li> </div>-->
+                </ul>
+                <div class="send-content">
+                    <ul class="content-list scrollbar">
+                        <li class="date"></li>
+                        <!--<li><i id="img"></i><p>的撒</p></li>-->
+                        <!--<li><i style="object-fit:cover"><img src="http://s0.hao123img.com/res/img/baiduzhongban-4.gif" style="height:100%;width:100%"></i><p>的撒</p></li>-->
+                        <!--<li><i style="object-fit:cover"><img src="http://s0.hao123img.com/res/img/baiduzhongban-4.gif" style="height:100%;width:100%"></i><p>的撒</p></li>-->
+                        <!--<li class="s_message" style="float:right"><p>的撒dfdasdfsadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsa</p><i style="object-fit:cover"><img src="http://s0.hao123img.com/res/img/baiduzhongban-4.gif" style="height:100%;width:100%"></i></li>-->
+                        <!--<li class="s_message" style="float:right"><p>的撒dfdasdfsadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsa</p><i></i></li>-->
+                        <!--<li class="s_message" style="float:right"><p>的撒dfdasdfsadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsa</p><i></i></li>-->
+
+                    </ul>
+                    <div class="publish">
+                        <textarea class="scrollbar" id="text" _placeholder="一键发送文字、网址、图片到手机"></textarea>
+                        <a class="button disabled" id="send">发送</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mask" style="display: none;"></div>
+<div class="layer-bind" style="display: none;">
+    <a class="close" title="关闭"></a>
+</div>
+<div class="input">
+     <h1 style="text-align: center;font-size: 30px;color: gray;margin-top: 20px;">欢迎来到聊天室</h1>
+     <div id="logo"><img src="http://www.ilhong.cn/avatar.jpg" width="90px" style="border-radius:45px;" /></div>
+     <input type="text" placeholder="请输入用户名称" id="name" maxlength="3">
+     <div class="submit">登录</div>
+</div>
+<style type="text/css">
+   .input{
+       width: 764px;
+       height: 500px;
+       background-color: #01e1c6;
+       position: absolute;
+       top:50%;
+       left: 50%;
+       margin-top: -257px;
+       margin-left: -382px;
+       background-image: url("http://p2.qhmsg.com/t01fd7e30079dcc079c.jpg");
+       background-size: 764px 500px;
+   }
+    #logo{
+        text-align: center;
+        margin-top: 20px;
+    }
+    #name{
+        width: 220px;
+        height: 50px;
+        position: relative;
+        top: 60px;
+        left:50%;
+        margin-left: -110px;
+        border: none;
+        border-radius: 7px;
+        text-align: center;
+        font-size: 15px;
+
+    }
+    .submit{
+        width: 220px;
+        height: 50px;
+        position: relative;
+        top: 100px;
+        left:50%;
+        margin-left: -110px;
+        border: none;
+        border-radius: 7px;
+        background-color: darkgray;
+        color: whitesmoke;
+        text-align: center;
+        font-size: 15px;
+        line-height: 50px;
+        cursor: pointer;
+        -webkit-transition: ease 0.5s;
+        -moz-transition: ease 0.5s;
+        -ms-transition: ease 0.5s;
+        -o-transition: ease 0.5s;
+        transition: ease 0.5s;
+    }
+    .submit:hover{
+        background-color: #01e1c6;
+        color: whitesmoke;
+    }
+    #img{
+    font-style: normal;
+    border-radius: 19px;
+    text-align: center;
+    line-height: 38px;
+    font-size: 6px;
+    color: white;
+    width: 38px;
+    height: 38px;
+    background: none;
+    background-color: rgb(99, 24, 34);
+    }
+</style>
+</body></html>

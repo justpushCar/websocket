@@ -1,0 +1,119 @@
+
+Socket Run
+address:127.0.0.1  port:8080
+key:57ff45170eb8bclosed
+key:57ff450216f93closed
+key:57ff44fb81154closed
+Socket Run
+address:127.0.0.1  port:8080
+key:57ff47b2e61a3closed
+key:57ff47a950cc6closed
+key:57ff47a70ed94closed
+Socket Run
+address:127.0.0.1  port:8080
+key:57ff48cd457e8closed
+key:57ff48ca13281closed
+key:57ff48c7d43dbclosed
+Socket Run
+address:127.0.0.1  port:8080
+key:57ff49688e383closed
+key:57ff4962af18bclosed
+key:57ff4964aabadclosed
+Socket Run
+address:127.0.0.1  port:8080
+key:57ff4a0b2937eclosed
+key:57ff4a077074aclosed
+key:57ff4a05d293fclosed
+Socket Run
+address:127.0.0.1  port:8080
+key:57ff4b8f3ec04closed
+key:57ff4bb4a8411closed
+key:57ff4b8b0e98cclosed
+key:57ff4badf02e9closed
+key:57ff4b80a2281closed
+Socket Run 2016-10-14 08:45:23
+address:127.0.0.1  port:8080
+key:  58007f0b8c056   closed
+key:  58007f2468b94   closed
+key:  5800802243023   closed
+key:  580080b044425   closed
+key:  580080cea07af   closed
+key:  580080dd0f2c7   closed
+key:  58008106ea43b   closed
+key:  580081279218e   closed
+Socket Run 2016-10-14 09:05:51
+address:127.0.0.1  port:8080
+Socket Run 2016-10-14 09:06:26
+address:127.0.0.1  port:8080
+Socket Run 2016-10-14 09:07:15
+address:127.0.0.1  port:8080
+Socket Run 2016-10-14 09:08:35
+address:127.0.0.1  port:8080
+key:  5800847a97a22   closed
+key:  5800871f56dd5   closed
+Socket Run 2016-10-14 09:27:29
+address:127.0.0.1  port:8080
+key:  580088e9733bf   closed
+key:  580088fc15be8   closed
+key:  5800896340eee   closed
+Socket Run 2016-10-14 09:37:37
+address:127.0.0.1  port:8080
+key:  58008b5a54a74   closed
+Socket Run 2016-10-14 09:53:19
+address:127.0.0.1  port:8080
+Socket Run 2016-10-14 09:55:20
+address:127.0.0.1  port:8080
+key:  58008f8bee514   closed
+Socket Run 2016-10-14 09:59:52
+address:127.0.0.1  port:8080
+key:  5800909bc6e68   closed
+key:  58009092622ee   closed
+key:  58009303cc543   closed
+key:  5800908346a0e   closed
+key:  5800950c37970   closed
+key:  5800998f0d1f4   closed
+key:  580099c6a15c0   closed
+key:  58009aba2ab09   closed
+Socket Run 2016-10-14 10:47:02
+address:127.0.0.1  port:8080
+key:  58009b8b88ec1   closed
+Socket Run 2016-10-14 10:52:56
+address:127.0.0.1  port:8080
+key:  58009cec887af   closed
+key:  58009ee5a09f9   closed
+key:  5800a05dab006   closed
+key:  5800a0f732962   closed
+key:  58009f6a26734   closed
+key:  5800a19403b43   closed
+key:  5800a19ab77c4   closed
+key:  5800a21986b80   closed
+key:  5800a338abb00   closed
+key:  5800a33205172   closed
+key:  5800a36d1f4e7   closed
+key:  58009cf6545ef   closed
+key:  5800a3729c23a   closed
+key:  5800a512208bf   closed
+key:  5800a57665d17   closed
+key:  5800a5cf92854   closed
+key:  5800a5df251e6   closed
+key:  5800a6ce86f1a   closed
+key:  5800a6d449033   closed
+key:  5800a7ecf275a   closed
+key:  5800a80942573   closed
+Socket Run 2016-10-14 11:51:59
+address:127.0.0.1  port:8080
+key:  5800aaebb8cea   closed
+Socket Run 2016-10-14 11:56:38
+address:127.0.0.1  port:8080
+key:  5800abe40cbcc   closed
+Socket Run 2016-10-14 11:58:51
+address:127.0.0.1  port:8080
+key:  5800ac61237af   closed
+key:  5800b1cacb060   closed
+key:  5800b48d1098a   closed
+key:  5800b4b2dd786   closed
+key:  5800b63d49e6c   closed
+key:  5800b65847d64   closed
+key:  5800b6db67740   closed
+key:  5800b6f8e4dd9   closed
+key:  5800b7ec2e78a   closed
